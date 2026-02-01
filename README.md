@@ -1,2 +1,2 @@
-# beta96.github.io
+# Beta 96 Source Code
 Welcome to the Beta 96 resource site repository.
